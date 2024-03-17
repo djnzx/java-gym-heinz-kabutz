@@ -1,0 +1,35 @@
+01: Tips&Tricks - SocketFactory for creating millions of sockets
+02: Performance - Escape Analysis of byte[] in read() and write()
+03: Performance - Counted loops and searching for primes
+04: Collections - Queues in Java
+05: New Java - Sealed classes
+
+06: Collections - Creating our own Spliterator
+07: Performance - Computational time complexity vs brute force parallelism in searching for Mersenne Primes
+08: Concurrency - DaemonThreadFactory
+09: Concurrency - Infinite loop in wait with interrupt
+10: Tips&Tricks - Calling default methods on interfaces that we do not implement
+
+11: Language - Puzzle with compound operators and implicit casts
+12: New Java - How deserializing records differs from ordinary classes
+13: Collections - Lesser known Maps
+14: Concurrency - HashMap vs ConcurrentHashMap
+15: Performance - Strings with zero hashCode
+
+16: Concurrency - Improved throughput with StampedLock versus synchronized
+17: Language - What is the best way to loop over a collection?
+18: Performance - Calculating object allocation from ThreadMXBean
+19: Puzzle - Sequential vs Parallel Stream performance
+20: Concurrency - Parallelizing using ForkJoin and CompletableFuture
+
+21: Tips&Tricks - Throwing exceptions as unchecked
+22: Collections - Different types of iterators: Broken, fail-fast, snapshot, weakly-consistent
+23: Performance - Effective subSequences of Strings
+24: Collections - Sets based on Maps
+25: Concurrency - Typos of deadlocks and how to find them
+
+26: Tips&Tricks - Advantages of VarHandle over java.lang.reflect.Field
+27: Concurrency - Asserting locks
+28: Language - Once Upon an Oak
+29: Tips&Tricks - Hooking into the shutdown call
+30: Language - Synthetic methods for accessing inner class private members
